@@ -1,0 +1,19 @@
+{
+
+    "title": "Moana2",
+    "year": 2024,
+    "isAvailable": true,
+
+    "genre": ["Animation", "Children's film", "Comedy", "Adventure"],
+
+    "cast": [
+        
+        {"name": "Aulii Cravalho", "role": "Lead"},
+        {"name": "Dwayne Johnson ", "role": "Lead"},
+        {"name": "Alan Tudyk", "role": "Supporting"},
+        {"name": "Nicole Scherzinger", "role": "Supporting"},
+        {"name": "Temuera Morrison", "role": "Supporting"}
+
+    ]
+
+}
